@@ -1,0 +1,58 @@
+html,body
+{
+    /* width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px; */
+    overflow-x: hidden; 
+}
+
+.bold-text{
+	font-weight: 800 !important;
+}
+
+.bg-blue{
+	background: blue;
+}
+
+.display-4{
+	font-size: 2em;
+	font-weight: 700;
+}
+
+.input-group{
+	width: 45%;
+	margin-left: 28%;
+	border: none;
+	/* border-radius: 0 !important; */
+}
+
+.form-control, .btn-primary{
+	border-radius: 0;
+}
+
+.text-blue{
+	color: blue;
+}
+
+.btn-dark{
+	border-radius: 70px;
+	/* padding: 10px 20px; */
+	width: 100px;
+}
+
+.nav-link{
+	font-weight: 600 !important;
+	font-size: 0.9em;
+}
+
+/* @media(min-width: 1366px){
+	html,body
+{
+    width: 100%;
+    height: 500%;
+    /* margin: 0px;
+    padding: 0px; */
+    /* overflow-x: hidden; 
+} */
+/* } */
